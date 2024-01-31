@@ -8,7 +8,7 @@
     <meta http-equiv="X-Content-Type-Options" content="nosniff" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="shortcut icon" id="tab-favicon" href="favicon.png" />
-    <title id="tab-title">Home</title>
+    <title id="tab-title">Astradyne</title>
     <script src="/assets/scripts/global.js?v=3"></script>
     <link rel="stylesheet" href="/assets/styles/main.css?v=1" />
     <link rel="stylesheet" href="/assets/styles/settings.css" />
@@ -32,15 +32,14 @@
       <div class="settings-container">
         <div class="settings-card">
           <h3>About:Blank</h3>
-          <p>Cloak the site in an about:blank page and toggle about:blank on startup (enabled by default)</p>
-          <button onclick="AB()" class="key-button">Open Popup</button>
+          <p>Opens Astradyne in an about:blank tab. About blank tabs hide your screen from screen monitoring apps such as Blocksi. </p>
+          <button onclick="AB()" class="key-button">Open</button>
           <button class="key-button" onclick="toggleAB()">Toggle automatic about:blank</button>
         </div>
         <div class="settings-card">
-          <h3>Set Panic Key</h3>
+          <h3>Panic Key</h3>
           <p>
-            Quickly open a educational site, when the teacher comes. The panic link is also used to redirect you when
-            about:blank windows are opened.
+            When a teacher is near you, all you have to do is click on the panic key you set, then it automatically redirects you to an educational site of your choice.
           </p>
           <input type="text" id="eventKeyInput" placeholder="Panic Key" class="key-form" />
           <input class="key-form" placeholder="Panic Link" type="text" id="linkInput" value />
@@ -85,14 +84,11 @@
           <h3>Themes!</h3>
           <p>Choose through a selection of themes!</p>
           <select placeholder="Solid Color Themes" id="dropdown" class="td" onchange="themeChange(this)">
-            <option disabled selected>Solid Color Themes</option>
             <option value="d">Default</option>
-            <option disabled selected>Catppuccin Themes</option>
             <option value="catppuccinMocha">Mocha</option>
             <option value="catppuccinMacchiato">Macchiato</option>
             <option value="catppuccinFrappe">Frappe</option>
             <option value="catppuccinLatte">Latte</option>
-            <option disabled selected>Gradient Themes</option>
           </select>
         </div>
       </div>
