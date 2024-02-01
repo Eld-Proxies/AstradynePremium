@@ -9,7 +9,7 @@
   --block: var(--ctp-macchiato-text) /*surface0*/;
   --block-buttons: var(--ctp-macchiato-surface1) /*surface1*/;
   --input: var(--ctp-macchiato-surface0) /*surface0*/;
-  --column: var(--ctp-macchiato-crust) /*crust*/;
+  --column: var(--ctp-latte-crust) /*crust*/;
 
   --text-primary: var(--ctp-macchiato-text) /*text*/;
   --text-secondary: var(--ctp-macchiato-subtext1) /*subtext1*/;
