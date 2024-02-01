@@ -33,12 +33,6 @@ document.addEventListener('DOMContentLoaded', () => {
       local: 'true',
     },
     {
-      name: 'Burrito Bison',
-      link: 'https://yexex.github.io/bb/index.html',
-      image: '/assets/media/icons/burritobison.webp',
-      categories: ['all'],
-    },
-    {
       name: 'Fireboy And Watergirl 2 In The Light Temple',
       link: 'https://www.coolmathgames.com/sites/default/files/public_games/40210/',
       image: '/assets/media/icons/fireboyandwatergirllighttemple.jpg',
@@ -163,13 +157,6 @@ document.addEventListener('DOMContentLoaded', () => {
       link: 'https://www.basketballlegends.fun/gamedata/basketball-legends-2020',
       image: '/assets/media/icons/basketball-legends.webp',
       categories: ['all'],
-    },
-    {
-      name: 'Cluster Rush',
-      link: 'https://swordslasher.com/games/cluster-rush/game.html',
-      image: '/assets/media/icons/cluster-rush.webp',
-      categories: ['all', 'local'],
-      local: 'true',
     },
     {
       name: 'Cookie Clicker',
