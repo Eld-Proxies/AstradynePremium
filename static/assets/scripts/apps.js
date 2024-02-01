@@ -7,46 +7,10 @@ document.addEventListener('DOMContentLoaded', () => {
       categories: ['all', 'media'],
     },
     {
-      name: 'Hdtoday',
-      link: 'https://hdtoday.tv',
-      image: 'https://movie-web.app/apple-touch-icon.png',
-      categories: ['all', 'media', 'stream'],
-    },
-    {
-      name: 'Cool Math Games',
-      link: 'https://coolmathgames.com',
-      image: '/assets/media/icons/apps/coolmath.png',
-      categories: ['all', 'game'],
-    },
-    {
       name: 'Discord',
       link: 'https://canary.discord.com',
       image: '/assets/media/icons/apps/discord.jpg',
       categories: ['all', 'social'],
-    },
-    {
-      name: 'DuckDuckGo',
-      link: 'https://start.duckduckgo.com/',
-      image: '/assets/media/icons/apps/duckduckgo.png',
-      categories: ['all'],
-    },
-    {
-      name: 'ESPN',
-      link: 'https://www.espn.com/watch/',
-      image: '/assets/media/icons/apps/espn.webp',
-      categories: ['all', 'media'],
-    },
-    {
-      name: 'Firefox Web Browser',
-      link: 'https://replit.com/@cooleddie001/Firefox-Legacy?v=1',
-      image: '/assets/media/icons/apps/firefox.png',
-      categories: ['all', 'media'],
-    },
-    {
-      name: 'Movie Site',
-      link: 'https://flixhq.to',
-      image: '/assets/media/icons/apps/flixhq.png',
-      categories: ['all', 'media'],
     },
     {
       name: 'Geforce NOW',
@@ -55,58 +19,16 @@ document.addEventListener('DOMContentLoaded', () => {
       categories: ['all', 'stream', 'cloud'],
     },
     {
-      name: 'Github',
-      link: 'https://github.com',
-      image: '/assets/media/icons/apps/github.png',
-      categories: ['all', 'media'],
-    },
-    {
       name: 'Google',
       link: 'https://google.com',
       image: '/assets/media/icons/apps/google.png',
       categories: ['all', 'media'],
     },
     {
-      name: 'HBO MAX',
-      link: 'https://www.hbomax.com/',
-      image: '/assets/media/icons/apps/hbo.webp',
-      categories: ['all', 'stream'],
-    },
-    {
       name: 'Messenger',
       link: 'https://messenger.com/',
       image: '/assets/media/icons/apps/messenger.png',
       categories: ['all', 'social', 'message'],
-    },
-    {
-      name: 'Pinterest',
-      link: 'https://pinterest.com',
-      image: '/assets/media/icons/apps/pinterest.png',
-      categories: ['all', 'media'],
-    },
-    {
-      name: 'Pixlr',
-      link: 'https://pixlr.com/',
-      image: '/assets/media/icons/pix.png',
-      categories: ['all', 'media'],
-    },
-    {
-      name: 'Poki',
-      link: 'https://poki.com',
-      image: '/assets/media/icons/apps/poki.png',
-      categories: ['all', 'game'],
-    },
-    {
-      name: 'Soundcloud',
-      link: 'https://soundcloud.com',
-      image: '/assets/media/icons/apps/soundcloud.jpg',
-      categories: ['all', 'media'],
-    },
-    {
-      name: 'Telegram',
-      link: 'https://web.telegram.org/',
-      image: '/assets/media/icons/apps/telegram.png',
-      categories: ['all', 'social'],
     },
     {
       name: 'Tiktok',
@@ -133,12 +55,6 @@ document.addEventListener('DOMContentLoaded', () => {
       categories: ['all', 'social', 'media'],
     },
     {
-      name: 'VS Code',
-      link: 'https://vscode.dev',
-      image: '/assets/media/icons/apps/vscode.png',
-      categories: ['all', 'tool'],
-    },
-    {
       name: 'YouTube',
       link: 'https://youtube.com',
       image: '/assets/media/icons/apps/yt.png',
@@ -149,12 +65,6 @@ document.addEventListener('DOMContentLoaded', () => {
       link: 'https://web.whatsapp.com/',
       image: '/assets/media/icons/apps/whatsapp.png',
       categories: ['all', 'message', 'social'],
-    },
-    {
-      name: 'ChatGPT Clone',
-      link: 'https://talkai.info/chat/',
-      image: '/assets/media/icons/chatgpt.png',
-      categories: ['all', 'AI'],
     },
     {
       name: 'Discord - Login',
@@ -168,19 +78,6 @@ document.addEventListener('DOMContentLoaded', () => {
       link: 'https://hdtoday.tv',
       image: '/assets/media/icons/hd.png',
       categories: ['all', 'media', 'stream'],
-    },
-    {
-      name: 'Now.GG',
-      link: 'https://now.gg',
-      image: '/assets/media/icons/now-gg.png',
-      categories: ['all', 'emu', 'android'],
-    },
-    {
-      name: 'Amazon Luna',
-      link: 'https://luna.amazon.com/',
-      image: '/assets/media/icons/amazon-luna.png',
-      categories: ['all', 'game', 'cloud'],
-      blank: 'true',
     },
   ]
 
