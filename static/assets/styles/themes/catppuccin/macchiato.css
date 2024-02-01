@@ -1,9 +1,9 @@
 @import url('https://unpkg.com/@catppuccin/palette/css/catppuccin.css');
 :root {
   --page: var(--ctp-macchiato-base) /*base*/;
-  --background: #1e1e2e;
+  --background: #800000;
   --background-secondary: var(--ctp-macchiato-mantle) /*mantle*/;
-  --background-dark: #11111b /*crust*/;
+  --background-dark: #800000 /*crust*/;
 
   --title: var(--ctp-macchiato-blue) /*blue*/;
   --block: var(--ctp-macchiato-surface0) /*surface0*/;
