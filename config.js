@@ -1,8 +1,9 @@
 const config = {
-  challenge: false,
+  challenge: true,
   users: {
     // username: 'password'
-    eld: 'test',
+    eld: 'owner',
+    friend: 'exclusive', 
   },
 }
 export default config
