@@ -214,13 +214,6 @@ document.addEventListener('DOMContentLoaded', () => {
       local: 'true',
     },
     {
-      name: 'Om Nom Run',
-      link: 'https://play.famobi.com/wrapper/om-nom-run/A1000-10',
-      image: '/assets/media/icons/mc.webp',
-      categories: ['all', '2P', 'emu'],
-      local: 'true',
-    },
-    {
       name: 'Getaway Տhοоtоսt',
       link: 'https://www.twoplayergames.org/embed/getaway-shootout',
       image: '/assets/media/icons/getaway.webp',
