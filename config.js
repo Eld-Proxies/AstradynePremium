@@ -3,7 +3,7 @@ const config = {
   users: {
     // username: 'password'
     eld: 'owner',
-    friend: 'exclusive', 
+    gojo: '123', 
   },
 }
 export default config
