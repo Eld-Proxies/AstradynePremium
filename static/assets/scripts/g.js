@@ -153,12 +153,6 @@ document.addEventListener('DOMContentLoaded', () => {
       categories: ['all'],
     },
     {
-      name: 'Basketball Legends',
-      link: 'https://www.basketballlegends.fun/gamedata/basketball-legends-2020',
-      image: '/assets/media/icons/basketball-legends.webp',
-      categories: ['all'],
-    },
-    {
       name: 'Cookie Clicker',
       link: 'https://orteil.dashnet.org/cookieclicker/',
       image: '/assets/media/icons/cookieclicker.webp',
@@ -215,6 +209,13 @@ document.addEventListener('DOMContentLoaded', () => {
     {
       name: 'Minecraft',
       link: 'https://swordslasher.com/games/minecraft1811/',
+      image: '/assets/media/icons/mc.webp',
+      categories: ['all', '2P', 'emu'],
+      local: 'true',
+    },
+    {
+      name: 'Om Nom Run',
+      link: 'https://play.famobi.com/wrapper/om-nom-run/A1000-10',
       image: '/assets/media/icons/mc.webp',
       categories: ['all', '2P', 'emu'],
       local: 'true',
