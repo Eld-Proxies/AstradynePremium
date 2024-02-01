@@ -250,7 +250,7 @@ document.addEventListener('DOMContentLoaded', () => {
     btn.appendChild(pinIcon)
     btn.style.float = 'right'
     btn.style.backgroundColor = 'rgb(0,0,0)'
-    btn.style.borderRadius = '75%'
+    btn.style.borderRadius = '100%'
     btn.style.borderColor = 'transparent'
     btn.style.color = 'white'
     btn.style.top = '-200px'
