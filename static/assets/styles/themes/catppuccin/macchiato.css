@@ -5,8 +5,8 @@
   --background-secondary: var(--ctp-macchiato-mantle) /*mantle*/;
   --background-dark: #800000 /*crust*/;
 
-  --title: var(--ctp-macchiato-blue) /*blue*/;
-  --block: var(--ctp-macchiato-surface0) /*surface0*/;
+  --title: var(--ctp-macchiato-base) /*dark blue*/;
+  --block: var(--ctp-macchiato-text) /*surface0*/;
   --block-buttons: var(--ctp-macchiato-surface1) /*surface1*/;
   --input: var(--ctp-macchiato-surface0) /*surface0*/;
   --column: var(--ctp-macchiato-crust) /*crust*/;
