@@ -32,7 +32,7 @@ button,
 }
 
 input:checked + .slider-round {
-  background-color: #000;
+  background-color: #FFFFFF;
 }
 
 .fixed-nav-bar-right .navbar-link {
