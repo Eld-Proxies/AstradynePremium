@@ -1,7 +1,7 @@
 const config = {
   challenge: false,
   users: {
-    // username: 'password', you can add multiple users.
+    // username: 'password'
     eld: 'test',
   },
 }
