@@ -150,7 +150,6 @@ document.addEventListener('DOMContentLoaded', () => {
       image: '/assets/media/icons/apps/whatsapp.png',
       categories: ['all', 'message', 'social'],
     },
-    },
     {
       name: 'ChatGPT Clone',
       link: 'https://talkai.info/chat/',
