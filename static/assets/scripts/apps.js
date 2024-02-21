@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', () => {
     {
       name: 'Chat GPT',
       link: 'https://chat.openai.com',
-      image: '/assets/media/icons/apps/amazon.png',
+      image: '/assets/media/icons/apps/chatgpt.png',
       categories: ['all', 'media'],
     }, 
     {
