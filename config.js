@@ -3,6 +3,7 @@ const config = {
   users: {
     // username: 'password'
     eld: 'owner',
+    trial: 'eld',
   },
 }
 export default config
