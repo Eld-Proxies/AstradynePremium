@@ -8,7 +8,7 @@ try {
 
 if (!inFrame && !navigator.userAgent.includes('Firefox')) {
   const popup = open('about:blank', '_blank')
-  if (!popup || popup.closed) alert(' Thanks for buying premium. Allow popups and redirects to avoid this from being blocked [Made By Eld]')
+  if (!popup || popup.closed) alert('Premium brought to you by Eld. Join the discord server in settings for questions.')
   else {
     const doc = popup.document
     const iframe = doc.createElement('iframe')
