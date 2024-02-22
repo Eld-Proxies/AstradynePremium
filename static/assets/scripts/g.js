@@ -159,12 +159,6 @@ document.addEventListener('DOMContentLoaded', () => {
       categories: ['all'],
     },
     {
-      name: 'Crossy Road',
-      link: 'https://5dd2e1e3-015f-11ea-ad56-9cb6d0d995f7.poki-gdn.com/169dc11d-e718-4b36-9e60-d5ed5bc07a31/index.html',
-      image: '/assets/media/icons/cr.webp',
-      categories: ['all'],
-    },
-    {
       name: 'Doge Miner 1',
       link: 'https://dogeminer.se/',
       image: '/assets/media/icons/doge-miner-1.webp',
@@ -186,18 +180,6 @@ document.addEventListener('DOMContentLoaded', () => {
       name: 'MX3M: Pool Party',
       link: 'https://h0jokl1egt0fd4oc8qv3j0tltl9jbqhn-a-sites-opensocial.googleusercontent.com/gadgets/ifr?url=https://649025137-174029463385024710.preview.editmysite.com/uploads/b/139890129-767696982876512205/files/mx3mpp.xml',
       image: '/assets/media/icons/mx3m.webp',
-      categories: ['all'],
-    },
-    {
-      name: 'MX3M: Spooky Land',
-      link: 'https://html5.gamedistribution.com/rvvASMiM/b8a342904608470a9f3382337aca3558/index.html',
-      image: '/assets/media/icons/mx3m-spooky.webp',
-      categories: ['all'],
-    },
-    {
-      name: 'MX3M: Winter',
-      link: 'https://www-sites-opensocial.googleusercontent.com/gadgets/ifr?url=https://sites.google.com/site/s017q3e/moto-x3m-4-winter.xml',
-      image: '/assets/media/icons/mx3m-winter.webp',
       categories: ['all'],
     },
     {
