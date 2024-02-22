@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
       categories: ['all', 'media'],
     },  
     {
-      name: 'Chat GPT',
+      name: 'Chat GPT (Not Finished),
       link: 'https://chat.openai.com',
       image: '/assets/media/icons/apps/chatgpt.png',
       categories: ['all', 'media'],
