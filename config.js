@@ -4,7 +4,7 @@ const config = {
     // username: 'password'
     trial: 'eld',
     owner: 'eld',
-    slogan: 'slogan',
+    slogan: 'dumb',
   },
 }
 export default config
