@@ -25,22 +25,10 @@ document.addEventListener('DOMContentLoaded', () => {
       categories: ['all', 'media'],
     },
     {
-      name: 'Messenger',
-      link: 'https://messenger.com/',
-      image: '/assets/media/icons/apps/messenger.png',
-      categories: ['all', 'social', 'message'],
-    },
-    {
       name: 'Tiktok',
       link: 'https://tiktok.com',
       image: '/assets/media/icons/apps/tiktok.png',
       categories: ['all', 'social', 'media'],
-    },
-    {
-      name: 'Tumblr',
-      link: 'https://tumblr.com/',
-      image: '/assets/media/icons/apps/tumblr.png',
-      categories: ['all', 'social'],
     },
     {
       name: 'Twitch',
@@ -55,16 +43,10 @@ document.addEventListener('DOMContentLoaded', () => {
       categories: ['all', 'social', 'media'],
     },
     {
-      name: 'YouTube',
+      name: 'YouTube (Unblocked Version)',
       link: 'https://youtube.com',
       image: '/assets/media/icons/apps/yt.png',
       categories: ['all', 'social', 'stream', 'media'],
-    },
-    {
-      name: 'Whatsapp',
-      link: 'https://web.whatsapp.com/',
-      image: '/assets/media/icons/apps/whatsapp.png',
-      categories: ['all', 'message', 'social'],
     },
     {
       name: 'Discord - Login',
