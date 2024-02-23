@@ -3,6 +3,7 @@ const config = {
   users: {
     // username: 'password'
     trial: 'eld',
+    owner: 'eld',
     slogan: 'slogan',
   },
 }
