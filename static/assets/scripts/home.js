@@ -8,7 +8,7 @@ try {
 
 if (!inFrame && !navigator.userAgent.includes('Firefox')) {
   const popup = open('about:blank', '_blank')
-  if (!popup || popup.closed) alert('Premium brought to you by Eld. Join the discord server in settings for questions.')
+  if (!popup || popup.closed) alert('Premium brought to you by Eld. Sri is a clown.')
   else {
     const doc = popup.document
     const iframe = doc.createElement('iframe')
