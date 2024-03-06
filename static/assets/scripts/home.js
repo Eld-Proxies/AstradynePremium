@@ -8,7 +8,7 @@ try {
 
 if (!inFrame && !navigator.userAgent.includes('Firefox')) {
   const popup = open('about:blank', '_blank')
-  if (!popup || popup.closed) alert('Premium brought to you by Eld. Sri is a clown.')
+  if (!popup || popup.closed) alert('Premium brought to you by Eld. Shresht is gay.')
   else {
     const doc = popup.document
     const iframe = doc.createElement('iframe')
